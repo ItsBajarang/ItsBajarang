@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## Connect With Me:
 
-  <a href="https://www.linkedin.com/in/bajarangjadhav)">
+  <a href="https://www.linkedin.com/in/bajarangjadhav">
     <img align="left" alt="Bajarang Jadhav | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/bajarangjadhav1">
